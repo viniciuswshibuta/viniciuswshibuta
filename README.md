@@ -14,7 +14,6 @@ _<h2>Tech and Tools</h2>_
 <a title="HTML5" href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a title="CSS3" href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a title="Javascript" href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a title="SQL" href=""><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a>
 
 _<h2>Languages</h2>_
 * _Portuguese_ 🇧🇷
