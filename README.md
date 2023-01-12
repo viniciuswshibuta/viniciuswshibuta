@@ -6,6 +6,7 @@ _<h2>Bio</h2>_
 </p>
 
 _<h2>Tech and Tools</h2>_
+<a title="Power Bi" href=""><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 <a title="Python" href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a title="Pandas" href=""><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a title="Numpy" href=""><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
