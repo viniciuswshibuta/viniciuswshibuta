@@ -35,7 +35,7 @@
 
 ## Hobbies
 * _Judo_ 🥋
-* _Coocking_ 👨‍🍳
+* _Cooking_ 👨‍🍳
 * _Bodybuilding_ 💪
 * _Video games_ 🎮
 
