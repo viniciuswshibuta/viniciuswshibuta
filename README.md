@@ -3,14 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Shibuta;I'm+24+years+old;I'm+from+Brazil;I'm+Computer+Engineering+student;;I'm+Data+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciuswshibuta&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Shibuta github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswshibuta&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
+<a href="https://github.com/viniciuswshibuta">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciuswshibuta&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswshibuta&layout=compact&langs_count=7&title_color=FF0000&text_color=FF0000&bg_color=0d1117"/>
 </div>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciuswshibuta&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFAFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/vinicius-shibuta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
