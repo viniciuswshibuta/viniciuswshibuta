@@ -4,8 +4,8 @@
 
 <div align="center">  
 <a href="https://github.com/viniciuswshibuta">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciuswshibuta&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&"/>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswshibuta&layout=compact&langs_count=7&title_color=FF0000&text_color=FF0000&"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciuswshibuta&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswshibuta&layout=compact&langs_count=7&title_color=FF0000&text_color=FF0000&bg_color=000000"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciuswshibuta&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFAFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
