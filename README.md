@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Shibuta;I'm+24+years+old;I'm+from+Brazil;I'm+Computer+Engineering+student;;I'm+Data+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vinicius+Shibuta;Tenho+24+anos;Sou+de+Santo+Anastácio+-+SP;Sou+estudante+de+Engenharia+da+Computação;Sou+estudante+de+programação;Sou+estudante+de+Data+Science;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 <a href="https://github.com/viniciuswshibuta">
