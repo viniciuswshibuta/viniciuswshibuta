@@ -25,6 +25,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
 ## Studying in this moment:
+![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=Tableau&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MYSQL&labelColor=0D1117)&nbsp;
